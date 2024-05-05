@@ -1,9 +1,9 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "yywh8888-blog",
+    "title": "yywh8888 Blog",
+    "author": "yywh8888 <yywh8888@gmail.com>",
     "version": "1.8.2",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "http://yywh8888.github.io",
     "repository": {
         "type": "git",
         "url": "https://github.com/Huxpro/huxpro.github.io"
